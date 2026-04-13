@@ -106,7 +106,8 @@ The system is implemented using direct wiring instead of a breadboard. This appr
 ---
 
 ## 📸 Output
-![Project Image](imagesproject.jpg)
+![Project Image](project.jpg)
+
 ---
 
 ## 🛠️ Applications
